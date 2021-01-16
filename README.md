@@ -1,7 +1,7 @@
 ## Golf Sidekick
 
-[View game](https://appworks-co-za.github.io/golf-sidekick/view-game/1)
-[View community](https://appworks-co-za.github.io/golf-sidekick/view-community/1)
+- [View game](https://appworks-co-za.github.io/golf-sidekick/view-game/22558151-18db-46b6-b089-365e00a3471d)
+- [View community](https://appworks-co-za.github.io/golf-sidekick/view-community/1)
 
 You can use the [editor on GitHub](https://github.com/appworks-co-za/golf-sidekick/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
