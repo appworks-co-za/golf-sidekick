@@ -1,2 +1,2 @@
 theme: jekyll-theme-tactile
-include: [".well-known", "media"]
+include: ['.well-known', 'media/background.mp4']
