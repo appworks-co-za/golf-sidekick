@@ -1,2 +1,2 @@
 theme: jekyll-theme-tactile
-include: [".well-known"]
+include: [".well-known", "media"]
